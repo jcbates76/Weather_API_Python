@@ -1,4 +1,4 @@
-# Pyhon API - Weather & Google Maps
+# Python API - Weather & Google Maps
 This project contains two parts.  WeatherPy and VacationPy.
 
 ## WeatherPy
